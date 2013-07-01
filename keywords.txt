@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For mcp23xxx
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+mcp23xxx	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+beginGPIO	KEYWORD2
+gpioPinMode	KEYWORD2
+gpioPort	KEYWORD2
+gpioPortFast	KEYWORD2
+gpioDigitalWrite	KEYWORD2
+gpioDigitalRead	KEYWORD2
+gpioDigitalReadFast	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MCP23S17	LITERAL1
+MCP23017	LITERAL1
+MCP23S08	LITERAL1
+MCP2308	LITERAL1
